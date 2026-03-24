@@ -1,4 +1,9 @@
-## Hi there 👋
+## Disclaimer: Linux Nerd!
+> i use [arch](https://archlinux.org/) btw
+
+## Contributions
+### Linux
+- <img src="https://github.com/LittleT6109/LittleT6109/main/winboat_logo.png" width="1em" style="vertical-align: -0.15em;" /> [TibixDev/winboat](https://github.com/TibixDev/winboat-web)
 
 <!--
 **LittleT6109/LittleT6109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
