@@ -1,9 +1,18 @@
 ## Disclaimer: Linux Nerd!
 > i use [arch](https://archlinux.org/) btw
 
-## Contributions
-### Linux
-- <img src="https://github.com/LittleT6109/LittleT6109/main/winboat_logo.png" width="1em" style="vertical-align: -0.15em;" /> [TibixDev/winboat](https://github.com/TibixDev/winboat-web)
+<a href="https://github.com/LittleT6109">
+  <img width="50%" align="right"
+       src="https://github-readme-stats.vercel.app/api?username=LittleT6109&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10&hide=issues" />
+</a>
+
+💻️ Languages I've worked with: `python`, `typescript`, `vue`, `html`, `css`
+
+📧 Contact me at [littlet@littlet6109.com](mailto:littlet@littlet6109.com)
+
+
+
+[![littlet6109](https://discord.c99.nl/widget/theme-1/1041510279634235483.png)](https://discord.com/users/1041510279634235483)
 
 <!--
 **LittleT6109/LittleT6109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
