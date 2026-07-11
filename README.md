@@ -1,30 +1,34 @@
-## Disclaimer: Linux Nerd!
-> i use [arch](https://archlinux.org/) btw
+## Disclaimer: Linux Nerd! 🐧
+> i use [artix](https://artixlinux.org/) btw
 
 <a href="https://github.com/LittleT6109">
   <img width="50%" align="right"
-       src="https://github-readme-stats.vercel.app/api?username=LittleT6109&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10&hide=issues" />
+    src="https://github-stats-extended.vercel.app/api?username=LittleT6109&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10&hide=issues" />
 </a>
 
-💻️ Languages I've worked with: `python`, `typescript`, `vue`, `html`, `css`
+🔑 GPG:
+- ID: `A74DDDD20D3D44DF`
+- Fingerprint: `D28C 5C02 F8C7 F134 8057 7719 A74D DDD2 0D3D 44DF`
 
-📧 Contact me at [littlet@littlet6109.com](mailto:littlet@littlet6109.com)
+🌐 Fullstack Web Developer
 
+I work with:
+- Astro
+- Electron
+- Tailwind
+- TypeScript
+- Vue
 
+📖 Learning [Rust](https://rustlang.org)
 
-[![littlet6109](https://discord.c99.nl/widget/theme-1/1041510279634235483.png)](https://discord.com/users/1041510279634235483)
+👨‍💻 Currently working on https://git.littlet6109.com/LittleT/DC-TS-Bot
 
-<!--
-**LittleT6109/LittleT6109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Contact me:
+- [littlet@littlet6109.com](mailto:littlet@littlet6109.com)
+- [Discord](https://discord.com/users/1041510279634235483)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LittleT6109/LittleT6109/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LittleT6109/LittleT6109/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LittleT6109/LittleT6109/output/github-contribution-grid-snake.svg">
+</picture>
