@@ -19,8 +19,9 @@
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,nginx)](https://skillicons.dev)
 
 ### 📧 Contact me:
-- [![Email](https://img.shields.io/badge/Email-littlet@littlet6109.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:littlet@littlet6109.com)
-- [![Discord](https://img.shields.io/badge/Discord-@littlet6109-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1041510279634235483)
+[![Email](https://img.shields.io/badge/Email-littlet@littlet6109.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:littlet@littlet6109.com)
+
+[![Discord](https://img.shields.io/badge/Discord-@littlet6109-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1041510279634235483)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LittleT6109/LittleT6109/refs/heads/output/github-snake-dark.svg" />
