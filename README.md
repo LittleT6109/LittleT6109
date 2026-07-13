@@ -19,11 +19,10 @@
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,nginx)](https://skillicons.dev)
 
 ### 📧 Contact me:
-### 📧 Contact me:
-<a href="mailto:littlet@littlet6109.com">
+<a href="mailto:littlet@littlet6109.com" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/LittleT6109/LittleT6109/refs/heads/main/Email.svg" width="50" height="50" />
 </a>
-<a href="https://discord.com/users/1041510279634235483">
+<a href="https://discord.com/users/1041510279634235483" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" />
 </a>
 
