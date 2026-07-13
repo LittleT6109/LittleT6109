@@ -6,26 +6,21 @@
     src="https://github-stats-extended.vercel.app/api?username=LittleT6109&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10&hide=issues" />
 </a>
 
-🔑 GPG:
+### 🔑 GPG:
 - ID: `A74DDDD20D3D44DF`
 - Fingerprint: `D28C 5C02 F8C7 F134 8057 7719 A74D DDD2 0D3D 44DF`
 
-🌐 Fullstack Web Developer
+### 🌐 Fullstack Web Developer
 
-I work with:
-- Astro
-- Electron
-- Tailwind
-- TypeScript
-- Vue
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,tailwindcss,astro,electron,bun)](https://skillicons.dev)
 
-📖 Learning [Rust](https://rustlang.org)
+### 🖥️ Homelabber
 
-👨‍💻 Currently working on https://git.littlet6109.com/LittleT/DC-TS-Bot
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,nginx)](https://skillicons.dev)
 
-📧 Contact me:
-- [littlet@littlet6109.com](mailto:littlet@littlet6109.com)
-- [Discord](https://discord.com/users/1041510279634235483)
+### 📧 Contact me:
+[![Email](https://raw.githubusercontent.com/LittleT6109/LittleT6109/refs/heads/main/Email.svg)](mailto:littlet@littlet6109.com)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1041510279634235483)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LittleT6109/LittleT6109/refs/heads/output/github-snake-dark.svg" />
